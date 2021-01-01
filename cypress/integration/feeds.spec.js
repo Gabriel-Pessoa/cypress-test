@@ -1,5 +1,3 @@
-const { createYield } = require("typescript")
-
 describe('Conduit Feed', () => {
     it('Ver Feeds', () => {
         cy.login('testecypress@testecypress.com', 'testecypress');

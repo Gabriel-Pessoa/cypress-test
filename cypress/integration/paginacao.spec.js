@@ -1,5 +1,3 @@
-const { createYield } = require("typescript")
-
 describe('Paginação', () => {
     it('Paginar', () => {
         cy.visit('/')

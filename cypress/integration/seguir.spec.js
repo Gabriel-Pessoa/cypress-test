@@ -1,5 +1,3 @@
-const { createYield } = require("typescript");
-
 describe('Seguir', () => {
     it('Seguir Usuário', () => {
         const usuario = 'usuario'+(new Date()).getTime();

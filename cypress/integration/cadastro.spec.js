@@ -1,5 +1,3 @@
-const { createYield } = require("typescript");
-
 describe('Conduit Cadastro', () => {
     const usuario = 'usuario' + (new Date()).getTime();
     const senha = 'senha' + (new Date()).getTime();
