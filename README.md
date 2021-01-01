@@ -19,7 +19,6 @@ For tests:
 
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+3) Run All Test:
+	* npx run cypress
 ```
