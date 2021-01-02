@@ -20,5 +20,5 @@ For tests:
 
 ```
 3) Run All Test:
-	* npx run cypress
+	* npx run cypress (new terminal)
 ```
